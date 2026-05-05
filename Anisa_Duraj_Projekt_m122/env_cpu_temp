@@ -1,0 +1,2 @@
+log_pfad=/home/anisa/crontab
+log_file=${log_pfad}/date.log
